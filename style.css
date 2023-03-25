@@ -1,0 +1,12 @@
+.bg-icon {
+    height: 12rem;
+    width: 12rem;
+}
+
+.weather-icon {
+    font-size:8rem;
+}
+
+.bg-lightgrey {
+    background-color: lightgray;
+}
